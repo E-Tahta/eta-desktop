@@ -38,8 +38,7 @@ Depends: ${misc:Depends},
  pardus-x11-settings,
  xorg,
  xserver-xorg-input-all,
- xserver-xorg-legacy,
- xserver-xorg-video-all,
+ xserver-xorg-video-all
 Recommends:
  kdesudo,
  plymouth,
