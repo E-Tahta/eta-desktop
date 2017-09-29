@@ -1,3 +1,10 @@
+eta-desktop (2017.1.2) unstable; urgency=medium
+
+  * Add libreoffice to dependicies
+  * Add eta-panel
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 29 Sep 2017 16:13:59 +0300
+
 eta-desktop (2017.1.1) unstable; urgency=medium
 
   * Update control file
