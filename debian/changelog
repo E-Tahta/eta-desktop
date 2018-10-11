@@ -1,3 +1,11 @@
+eta-desktop (2018.10.1) unstable; urgency=medium
+
+  * Bump version to 2018.10.1
+  * Bring back kdm
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 11 Oct 2018 14:22:16 +0300
+
 eta-desktop (2017.1.4) unstable; urgency=medium
 
   * Replace kdm with lightdm
