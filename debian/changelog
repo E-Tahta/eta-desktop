@@ -1,3 +1,10 @@
+eta-desktop (2018.10.3) unstable; urgency=medium
+
+  * Update .drone.yml
+  * Remove eta-keyboard-kdm-config from depends
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 12 Oct 2018 11:22:34 +0300
+
 eta-desktop (2018.10.2) unstable; urgency=medium
 
   * Remove eta-panel since it shiped by kde-workspace
