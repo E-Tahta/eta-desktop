@@ -10,6 +10,7 @@ Package: eta-desktop
 Architecture: any
 Depends: ${misc:Depends},
  ark,
+ antropiteach,
  desktop-base,
  eog,
  eta-black,
