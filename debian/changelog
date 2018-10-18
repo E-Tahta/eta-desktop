@@ -1,3 +1,10 @@
+eta-desktop (2018.10.5) unstable; urgency=medium
+
+  * Add eta-check-optictouch and eta-usblogin to depends
+  * Add antropiteach to depends
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 18 Oct 2018 10:21:10 +0300
+
 eta-desktop (2018.10.4) unstable; urgency=medium
 
   * Add gtk config style to depends
