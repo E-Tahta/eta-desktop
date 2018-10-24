@@ -1,3 +1,9 @@
+eta-desktop (2018.10.6) unstable; urgency=medium
+
+  * Replace eta-widgets with specific dependencies
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 24 Oct 2018 19:59:29 +0300
+
 eta-desktop (2018.10.5) unstable; urgency=medium
 
   * Add eta-check-optictouch and eta-usblogin to depends
