@@ -74,6 +74,8 @@ Recommends:
  upower,
  vlc,
  xdg-utils
+Conflicts: eta-slack (<< 0.2.10)
+Replaces: eta-slack (<< 0.2.10)
 Description: Meta-package with dependencies ETAP desktop provided by Pardus
  This metapackage depends on Pardus packages that should be intalled on all
  desktop installations of Pardus.
