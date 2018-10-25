@@ -1,3 +1,9 @@
+eta-desktop (2018.10.7) unstable; urgency=medium
+
+  * Add Conflicts and Replaces fields to control file for eta-slack
+
+ -- Hikmet Baş <hikmet.bas@pardus.org.tr>  Thu, 25 Oct 2018 09:12:23 +0000
+
 eta-desktop (2018.10.6) unstable; urgency=medium
 
   * Replace eta-widgets with specific dependencies
