@@ -1,3 +1,9 @@
+eta-desktop (2018.11.1) unstable; urgency=medium
+
+  * Add eta-calibrator, geogebra, wps-office
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 07 Nov 2018 17:11:59 +0300
+
 eta-desktop (2018.10.8) unstable; urgency=medium
 
   * Add provides field to control file
