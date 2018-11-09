@@ -1,3 +1,9 @@
+eta-desktop (2018.11.2) unstable; urgency=medium
+
+  * Move libre to recommends and add wps lang package
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 09 Nov 2018 11:26:18 +0300
+
 eta-desktop (2018.11.1) unstable; urgency=medium
 
   * Add eta-calibrator, geogebra, wps-office
