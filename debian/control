@@ -63,7 +63,9 @@ Depends: ${misc:Depends},
  xserver-xorg-input-all,
  xserver-xorg-video-all
 Recommends:
+ anydesk,
  bleachbit,
+ eta-flash-installer,
  geogebra,
  kdesudo,
  libreoffice,
