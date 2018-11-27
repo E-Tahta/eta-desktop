@@ -1,3 +1,9 @@
+eta-desktop (2018.11.6) stable; urgency=medium
+
+  * Add eta-notify, system-config-printer and eta-java-installer
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 27 Nov 2018 16:45:41 +0300
+
 eta-desktop (2018.11.5) stable; urgency=medium
 
   * Deprecate check-optictouch and use eta-check-inputdevice and busy
