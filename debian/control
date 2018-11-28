@@ -68,6 +68,7 @@ Depends: ${misc:Depends},
 Recommends:
  anydesk,
  bleachbit,
+ cups,
  eta-flash-installer,
  eta-java-installer,
  geogebra,
