@@ -1,3 +1,9 @@
+eta-desktop (2018.11.7) stable; urgency=medium
+
+  * Add cups to recommends
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 28 Nov 2018 14:51:30 +0300
+
 eta-desktop (2018.11.6) stable; urgency=medium
 
   * Add eta-notify, system-config-printer and eta-java-installer
